@@ -2,7 +2,7 @@
 
 ## Let me explain what I'm doing with this repository...
 
-I will not post full source code here.  Source code is a work product that I like to get paid for doing.   What I will post are flow charts, state transition diagrams, block diagrams, and explainations on what makes the project work.  There will be some source here, but only enough to substantiate my expertese in the subject.
+I will post partical source code here.  Source code is a work product that I like to get paid for doing.  There will be basic project here which will compile and run on the ESP32.  Also, what I will post here are flow charts, state transition diagrams, block diagrams, and explainations on what makes the full AWS IOT project work so that you can learn on your own how to accomplish the task.  
 
 #### Please view the README.md files in subdirectories for helpful info.
 
