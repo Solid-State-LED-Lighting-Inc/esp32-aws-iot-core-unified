@@ -2,7 +2,7 @@
 
 ## Let me explain what I'm doing with this repository...
 
-Source code is a work product that I like to get paid for doing.  However, I will post a basic project here which will compile and run on the ESP32.  Also, I will post flow charts, state transition diagrams, block diagrams, and other helpful information that desicribes how the full AWS IOT project works so that you can learn on your own how to accomplish the task.  For those of you little time to work through it, I'm happy to contract with you and get the job done for you.
+Source code is a work product that I like to get paid for doing.  However, I will post a basic project here which will compile and run on the ESP32.  Also, I will post flow charts, state transition diagrams, block diagrams, and other helpful information that describes how the full AWS IOT project works so that you can learn on your own how to accomplish the task.  For those of you with little time to work through it, I'm happy to contract with you and get the job done for you.
 
 #### Please view the README.md files in subdirectories for helpful info.
 
